@@ -9,10 +9,10 @@ require (
 	github.com/sagernet/uot v0.0.0-20220403125237-bf82029ad617
 	github.com/stretchr/testify v1.7.1
 	go.uber.org/zap v1.21.0
-	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
+	golang.org/x/crypto v0.31.0
+	golang.org/x/sys v0.28.0
 	golang.zx2c4.com/wireguard v0.0.0-20220407013110-ef5c587f782d
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	lukechampine.com/blake3 v1.1.7
 )
 
@@ -30,5 +30,5 @@ require (
 	github.com/prometheus/procfs v0.7.3 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
-	google.golang.org/protobuf v1.28.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
